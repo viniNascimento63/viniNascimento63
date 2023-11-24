@@ -5,16 +5,15 @@
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniNascimento63&show_icons=true&theme=react&locale=pt-br&hide=contribs,prs"/>
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniNascimento63&layout=compact&theme=react&locale=pt-br"/>
     </a>
-</div>
+</div></br>
 
+🧐 Atualmente **estário** de **desenvolvimento web** da **Pilgrims Consulting**.
 
-🧐 Atualmente sou **estário** de **desenvolvimento web** da **Pilgrims Consulting**.
-
-✍️ **Estudando** no momento: **Next.js** e **React**, **WordPress** e **HTML5** e **CSS3**.
+✍️ **Estudando**: **Next.js** e **React**, **WordPress** e **HTML5** e **CSS3**.
 
 🎅 **Pronomes:** **Ele/Dele**.
 
 🎯 **Objetivo:** Poder ajudar as pessoas utilizando tecnologia.
 
-⚡ **Fun fact**: Gosto de ler e tocar 🎸
+⚡ **Fun fact**: Gosto de ler fantasia e tocar 🎸
 
