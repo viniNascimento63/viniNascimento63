@@ -1,6 +1,6 @@
 # E aí, beleza? Vini aqui!👋
 
-🧐 Atualmente sou **estário** de **desenvolvimento web** da **[Pilgrims Consulting](https://pilgrimsconsulting.com.br/)**
+🧐 Atualmente sou **estário** de **desenvolvimento web** da **Pilgrims Consulting**
 
 ✍️ **Estudando** no momento: **Next.js** e **React**, **WordPress** e **HTML5** e **CSS3**.
 
