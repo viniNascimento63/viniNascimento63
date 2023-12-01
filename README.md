@@ -4,9 +4,11 @@
     <a href="https://github.com/viniNascimento63?tab=repositories">
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniNascimento63&layout=compact&theme=react&locale=pt-br"/>
     </a>
+    <!--
     <a href="https://github.com/viniNascimento63">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniNascimento63&show_icons=true&theme=react&locale=pt-br"&hide=contribs,prs/>
     </a>
+    -->
 </div></br>
 
 🧐 Atualmente **estário** de **desenvolvimento web** da **Pilgrims Consulting**.
