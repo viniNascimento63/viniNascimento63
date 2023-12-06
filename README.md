@@ -13,7 +13,7 @@
 
 🧐 Atualmente **estário** de **desenvolvimento web** da **Pilgrims Consulting**.
 
-✍️ **Estudando**: **Next.js** e **React**, **WordPress** e **HTML5** e **CSS3**.
+✍️ **Estudando**: **PHP**, **Next.js** e **React**, **WordPress** e **HTML5** e **CSS3**.
 
 🎅 **Pronomes:** **Ele/Dele**.
 
