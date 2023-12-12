@@ -10,7 +10,7 @@
     
 </div></br>
 
-🧐 Atualmente **estário** de **desenvolvimento web** da **Pilgrims Consulting**.
+🧐 Atualmente **estagiário** de **desenvolvimento web** da **Pilgrims Consulting**.
 
 ✍️ **Estudando**: **PHP**, **Next.js** e **React**, **WordPress** e **HTML5** e **CSS3**.
 
