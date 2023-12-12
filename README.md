@@ -1,7 +1,7 @@
 # E aí, beleza? Vini aqui!👋
 
 <div>
-    <a href="https://github.com/viniNascimento63">
+    <a href="https://github.com/viniNascimento63?tab=repositories">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniNascimento63&show_icons=true&theme=react&locale=pt-br"&hide=contribs,prs/>
     </a>
     <a href="https://github.com/viniNascimento63?tab=repositories">
