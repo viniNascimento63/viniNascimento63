@@ -16,7 +16,7 @@
 
 🎅 **Pronomes:** **Ele/Dele**.
 
-🎯 **Objetivo:** Poder ajudar as pessoas utilizando tecnologia.
+🎯 **Objetivo:** Poder ajudar as pessoas com a tecnologia.
 
 ⚡ **Fun fact**: Gosto de ler e tocar 🎸
 
