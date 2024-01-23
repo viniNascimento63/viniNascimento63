@@ -11,7 +11,7 @@
 
 ##
 
-🧐 Atualmente **estagiário** de **desenvolvimento web** da **Pilgrims Consulting**.
+🧐 Atualmente **estagiário** de **desenvolvimento web**.
 
 ✍️ **Estudando**: **PHP**, **JavaScript**, **WordPress** e **HTML5** e **CSS3**.
 
