@@ -17,7 +17,7 @@
 
 🎯 **Objetivo:** Poder ajudar as pessoas com a tecnologia.
 
-⚡ **Fun fact**: Gosto de ler e tocar 🎸
+⚡ **Fun fact**: Gosto de ler e tocar violão 🎵
 
 ##
 
