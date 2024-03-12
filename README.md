@@ -8,9 +8,10 @@
 </p>
 <p>💙Meu objetivo é poder ajudar as pessoas com a tecnologia.</p>
 
-<p>✍️<strong>Linguagens</strong>: PHP, JavaScript, TypeScript, Java, Python, NodeJS, SQL</p>
-<p>⚙️<strong>Frameworks</strong>: Slim Framework, React, Bootstrap</p>
-<p>💼<strong>Ferramentas</strong>: WordPress, Docker, XAMPP, Local, Figma</p>
+<p>🎨<strong>Front-End:</strong> JavaScript, HTML, CSS</p>
+<p>🤯<strong>Back-End:</strong> PHP, NodeJS, Java, Python, SQL</p>
+<p>⚙️<strong>Frameworks:</strong> Slim Framework, React, Bootstrap</p>
+<p>💼<strong>Ferramentas:</strong> WordPress, Docker, XAMPP, Local, Figma</p>
 
 <p><br>💌Entre e contato comigo através dos links abaixo:</p>
 <a href='https://www.linkedin.com/in/vin%C3%ADcius-nascimento-920040214/'>
