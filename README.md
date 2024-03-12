@@ -13,7 +13,7 @@
 
 🧐 Atualmente **estagiário** de **desenvolvimento web**.
 
-✍️ **Estudando**: **PHP**, **JavaScript**, **WordPress** e **HTML5** e **CSS3**.
+✍️ **Estudando**: **PHP**, **JavaScript**, **React**, **TypeScript** e **WordPress**.
 
 🎯 **Objetivo:** Poder ajudar as pessoas com a tecnologia.
 
@@ -22,15 +22,11 @@
 ##
 
 <div align='center'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='35px' width='45px'/>   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='35px' width='45px'/>        
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='35px' width='45px'/>  
-    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='35px' width='45px/>-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height='35px' width='45px/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='35px' width='45px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height='35px' width='45px'/>         
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height='35px' width='45px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='35px' width='45px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height='35px' width='45px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='35px' width='45px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" height='35px' width='45px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height='35px' width='45px'/>
 </div>
 
 ##
