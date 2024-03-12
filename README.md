@@ -11,7 +11,7 @@
 
 ##
 
-🧐 Atualmente **estagiário** de **desenvolvimento web**.
+🧐 **Desenvolvedor WEB**.
 
 ✍️ **Estudando**: **PHP**, **JavaScript**, **React**, **TypeScript** e **WordPress**.
 
@@ -22,7 +22,7 @@
 ##
 
 <div align='center'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height='35px' width='45px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height='35px' width='45px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='35px' width='45px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height='35px' width='45px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='35px' width='45px'/>
