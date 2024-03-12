@@ -19,9 +19,8 @@
 
 ⚡ **Fun fact**: Gosto de ler e tocar violão 🎵
 
-##
-
 <div align='center'>
+    <h2>Tecnologias que utilizo</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height='35px' width='45px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='35px' width='45px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height='35px' width='45px'/>
@@ -29,9 +28,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" height='35px' width='45px'/>
 </div>
 
-##
+<br/>
 
 <div align='center'>
+    <h2>Contatos</h2>
     <a href='https://www.linkedin.com/in/vin%C3%ADcius-nascimento-920040214/'>
         <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
