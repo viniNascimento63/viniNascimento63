@@ -22,3 +22,7 @@
     <img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white'/>
 </a>
 
+<div>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=viniNascimento63&theme=shadow_blue&show_icons=true"/>
+</div>
