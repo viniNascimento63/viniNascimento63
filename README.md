@@ -24,7 +24,7 @@
 
 <div>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=viniNascimento63&theme=shadow_blue&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniNascimento63&theme=shadow_blue&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=viniNascimento63&theme=shadow_blue&show_icons=true" height=180vh/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniNascimento63&theme=shadow_blue&layout=compact" height=180vh/>
 </div>
 
