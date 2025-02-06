@@ -10,7 +10,7 @@
 
 <p>🎨<strong>Front-End:</strong> JavaScript (ES6), HTML, CSS</p>
 <p>🤯<strong>Back-End:</strong> PHP, Java, Python, SQL</p>
-<p>⚙️<strong>Frameworks:</strong> React, Bootstrap, Laravel, Slim Framework</p>
+<p>⚙️<strong>Frameworks:</strong> Laravel, Slim Framework, Bootstrap</p>
 <p>💼<strong>Ferramentas:</strong> WordPress, Docker, XAMPP, Local, Figma</p>
 
 <p><br>💌Entre e contato comigo através dos links abaixo:</p>
