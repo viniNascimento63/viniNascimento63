@@ -6,7 +6,6 @@
     Meu nome é <strong>Vinícius da Silva do Nascimento</strong> e atuo como <strong>desenvolvedor web</strong> desde 2022. 
     Adoro programação e superar desafios complexos. 
 </p>
-<p>💙Meu objetivo é poder ajudar as pessoas com a tecnologia.</p>
 
 <p>🎨<strong>Front-End:</strong> JavaScript (ES6), HTML, CSS</p>
 <p>🤯<strong>Back-End:</strong> PHP, Java, Python, SQL</p>
